@@ -1,8 +1,9 @@
 package cast_test
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 	"zestack.dev/cast"
 )
 
